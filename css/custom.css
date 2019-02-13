@@ -1,0 +1,153 @@
+p {
+	font-family: myriad-pro, sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+h1 {
+	font-family: myriad-pro, sans-serif;
+font-weight:700;
+font-style: normal;
+font-size: 4em;
+text-align: center;
+}
+
+h3{
+	margin-left: 1%;
+	color:white;
+}
+
+h4 {
+	font-family: myriad-pro, sans-serif;
+font-weight: 700;
+font-style: normal;
+color:#3ea237;
+}
+
+button {
+	background-color: white;
+}
+
+
+.ad {
+	
+	width: 100%;
+	height: 4em;
+}
+
+.be {
+	
+width: 10%;
+	margin-left:70.5%;
+	margin-top: -20%;
+}
+
+
+
+.nav {
+	-webkit-box-shadow: 0 6px 3px -3px grey;
+	   -moz-box-shadow: 0 6px 3px -3px grey;
+	        box-shadow: 0 12px 3px -3px grey;
+	        font-family: myriad-pro, sans-serif;
+	        background-color:#3ea237;
+font-weight: 400;
+font-style: normal;
+padding: 0.5em;
+position: relative;
+
+	    }
+
+	    .nav a:hover {
+	    	color: blue;
+
+	    }
+
+
+	   .donate {
+	   	width: 90%;
+	   	height: 16em;
+	   	
+	   }
+
+	    .ad1 {
+	
+	width: 15.6%;
+	height:140em;
+	margin-left: 84.5%; }
+	
+.text-container {
+	
+	width: 83%;
+	float: left;
+	padding: 3%;
+	height: 100em;
+
+
+	
+	}
+
+	.bq {
+		color:blue;
+		font-style: italic;
+	}
+
+a {
+	text-decoration: none;
+	color:black;
+}
+
+a:hover {
+	text-decoration: none;
+	color:black;
+}
+
+
+#popup { color: #000; background-color: white; }
+
+
+
+#popup a span {
+	display: none;
+}
+
+#popup a:hover { 
+	
+}
+
+/* the IE correction rule */
+#popup a:hover	{
+	color: black; 
+	text-indent: 0; /* added the default value */
+}
+
+#popup a:hover span {
+	display: block;
+	position: absolute;
+	
+	width: 100%;
+	margin: 0px;
+	padding: 10px;
+	color: #335500;
+	font-weight: normal;
+	
+}
+
+#container {
+  width: 80%;
+  /*border-radius: 25px;*/
+  border: 2px solid Black;
+  padding: 15px 15px 15px 15px;
+  margin: 20px 20px 20px 20px;
+  background: #A4D3EE;
+  overflow: visible;
+  box-shadow: 5px 5px 2px #888888;
+  position: relative;
+}
+
+footer {
+	margin-top: 50%;
+	margin-left: 0.5%;
+	background-color: orange;
+	padding: 2%;
+}
+
